@@ -104,11 +104,11 @@ See the report for detailed metrics, curves, and the confusion matrix.
 
 ## Links / Resources
 
-- [Pre-recorded presentation video](https://drive.google.com/drive/u/0/folders/1CkRIxO5U1YubWMCWU5C7bL1BCBMb6Ne1)
-- [Presentation slides](https://drive.google.com/drive/u/0/folders/1CkRIxO5U1YubWMCWU5C7bL1BCBMb6Ne1)
-- [Report](https://drive.google.com/drive/u/0/folders/1aVrZKOWf4pZRA-OYw2YvfPENej-7eWUG)
-- [Dataset](https://drive.google.com/drive/u/0/folders/1fpiklJQs3It5nCCo1hv6p6scADBCbNbF)
-- [Demo video](https://drive.google.com/drive/u/0/folders/1CkRIxO5U1YubWMCWU5C7bL1BCBMb6Ne1)
+- [Pre-recorded presentation video](https://drive.google.com/file/d/1SlFcHzWH8MZ6STEdIRNWSi5NTGcOL7ZC/view?usp=sharing)
+- [Presentation slides](https://docs.google.com/presentation/d/1wDJPtGFcw_g6XMf1mujDUgzic3LmKAB7/edit?slide=id.p1#slide=id.p1)
+- [Report](https://drive.google.com/file/d/1SNXLuvPwkZXfg8iTu3LCd5K_LQ9MkLLZ/view?usp=sharing)
+- [Dataset](https://drive.google.com/drive/folders/1CVRyGuotedRrbcpAz2xwBJ-C1uyAf7ts?usp=drive_link)
+- [Demo video]()
 
 ## Team
 
